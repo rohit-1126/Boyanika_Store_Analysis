@@ -15,7 +15,7 @@
 - Microsoft Excel — Data cleaning, pivot tables, dashboard,charts,functions.
 - PDF Report — Microsoft PowerPoint
 
-# Skills applied.
+# Skills Applied
 
 - Data Cleaning & Transformation
 - Data Analysis
@@ -31,4 +31,5 @@
 
 
 
-rohit-1126
+
+- rohit-1126
