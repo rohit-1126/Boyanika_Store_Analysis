@@ -1,21 +1,21 @@
 # Boyanika_Store_Analysis
 - Excel Data Analysis Project using Boyanika Store Dataset.
 
-# Project Overview
+## Project Overview
 - This project analyzes store variables to find key revenue contributors, customer segments, and channel performance insights for Boyanika store.
 
-# Key Findings
+## Key Findings
 
 - Total Revenue: ₹2.12 Crore across 2022
 - Women customers contribute 64% of total revenue
 - Sets & Kurtas are dominate product gives 73% combined revenue
 - Maharashtra is the highest revenue-generating state
 
-#  Tools Used
+##  Tools Used
 - Microsoft Excel — Data cleaning, pivot tables, dashboard,charts,functions.
 - PDF Report — Microsoft PowerPoint
 
-# Skills Applied
+## Skills Applied
 
 - Data Cleaning & Transformation
 - Data Analysis
@@ -23,7 +23,7 @@
 - Business Insight Generation
 - PDF Report Making
 
-# Files
+## Files
 - PROJECT_Boyanika_Store_Data_Analysis.xlsx
 - dashboard_boyanika_Screenshot.png
 - analysis_boyanika_Screenshot.png
@@ -32,4 +32,5 @@
 
 
 
-- rohit-1126
+##
+rohit-1126
